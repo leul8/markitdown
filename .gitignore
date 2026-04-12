@@ -1,4 +1,3 @@
-.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -125,7 +124,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -166,3 +164,5 @@ cython_debug/
 src/.DS_Store
 .DS_Store
 .cursorrules
+config.bat
+node_modules
